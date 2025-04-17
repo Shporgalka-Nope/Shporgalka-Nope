@@ -26,5 +26,6 @@ Additional skills:
 
 Currently studying:
 - ASP.Net Core (Improving skills)
+- EF Core (Improving skills)
 - React
 - Docker
