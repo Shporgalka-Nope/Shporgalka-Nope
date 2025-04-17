@@ -15,12 +15,14 @@ Main stack:
   - Minimal APIs
   - Razor Pages
 - C# - 2 Years (Personal projects)
+- EF Core
 
 Additional skills:
 - JavaScript
 - CSS
 - HTML
 - WPF - 1 Year (Personal projects)
+- MS SQL
 
 Currently studying:
 - ASP.Net Core (Improving skills)
