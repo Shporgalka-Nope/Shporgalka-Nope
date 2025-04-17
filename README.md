@@ -32,7 +32,7 @@ Current role: Junior
 - CSS
 - HTML
   
-### Additional skills:
+**Additional skills:**
 - WPF
 - MS SQL
 
