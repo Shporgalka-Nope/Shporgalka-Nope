@@ -46,4 +46,4 @@ Current role: Junior
 - CI CD deploy automation
 
 ### Pet projects
-- [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A simple tools that use steam web API. Currently may only calculate weight of given mods collection
+- [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A website with simple tools that use steam web API. Currently may only calculate weight of given mods collection
