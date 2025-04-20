@@ -10,7 +10,7 @@ Languages: Russian - Native | English - C1 | German - B2
 
 Mainly interested in Web projects as a *backend developer*.
 
-Current role: Junior
+Current role level: Junior
 
 **Contact me:**
 
