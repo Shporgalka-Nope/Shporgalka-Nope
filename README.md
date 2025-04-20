@@ -44,3 +44,6 @@ Current role: Junior
 - Docker
 - xUnit tests
 - CI CD deploy automation
+
+### Pet projects
+- [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A simple tools that use steam web API. Currently may only calculate weight of given mods collection
