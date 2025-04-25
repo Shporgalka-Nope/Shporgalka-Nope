@@ -8,7 +8,7 @@ Student of *VKI NGU* Informatics College.
 
 Languages: Russian - Native | English - C1 | German - B2
 
-Mainly interested in Web projects as a *backend developer*.
+Mainly interested in Web projects as a *Backend Developer* or *Fullstack Developer*.
 
 Current role level: Junior
 
@@ -34,6 +34,7 @@ Current role level: Junior
   
 **Additional skills:**
 - WPF
+  - MVVM 
 - MS SQL
 
 ### Currently learning:
