@@ -36,7 +36,7 @@ Current role level: ***Junior***
 - WPF
   - MVVM 
 - MS SQL
-
+---
 ### Currently learning:
 - ASP.Net Core (Improving skills)
 - EF Core (Improving skills)
