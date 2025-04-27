@@ -44,7 +44,7 @@ Current role level: ***Junior***
 - Node.js
 - Docker
 - xUnit tests
-- CI CD deploy automation
+- Gitlab's CI CD
 
 ### Pet projects
 - [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A website with simple tools that use steam web API. Currently may only calculate weight of given mods collection
