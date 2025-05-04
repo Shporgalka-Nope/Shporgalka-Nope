@@ -38,8 +38,6 @@ Current role level: ***Junior***
 - MS SQL
 ---
 ### Currently learning:
-- ASP.Net Core (Improving skills)
-- EF Core (Improving skills)
 - React
 - Node.js
 - Docker
