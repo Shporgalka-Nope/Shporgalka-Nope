@@ -36,12 +36,12 @@ Current role level: ***Junior***
 - WPF
   - MVVM 
 - MS SQL
+- xUnit tests
 ---
 ### Currently learning:
 - React
 - Node.js
 - Docker
-- xUnit tests
 - Gitlab's CI CD
 
 ### Pet projects
