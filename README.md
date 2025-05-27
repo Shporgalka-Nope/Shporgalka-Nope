@@ -26,6 +26,9 @@ Current role level: ***Junior***
   - Minimal APIs
   - Razor Pages
 - EF Core
+- Identity Core
+- WPF
+  - MVVM  
 
 **Frontend**
 - JavaScript
@@ -33,8 +36,6 @@ Current role level: ***Junior***
 - HTML
   
 **Additional skills:**
-- WPF
-  - MVVM 
 - MS SQL
 - xUnit tests
 ---
@@ -46,3 +47,4 @@ Current role level: ***Junior***
 
 ### Pet projects
 - [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A website with simple tools that use steam web API. Currently may only calculate weight of given mods collection
+- [Connection Point](https://github.com/Shporgalka-Nope/SimpleSocialMedia.git) - Simple microblogs posting website example, made via ASP.Net Core with use of Identity Core for user data managment
