@@ -38,11 +38,11 @@ Current role level: ***Junior***
 **Additional skills:**
 - MS SQL
 - xUnit tests
+- Github Actions
 ---
 ### Currently learning:
 - React
 - Node.js
-- Docker
 - Gitlab's CI CD
 
 ### Pet projects
