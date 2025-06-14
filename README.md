@@ -29,11 +29,17 @@ Current role level: ***Junior***
 - Identity Core
 - WPF
   - MVVM  
+- JavaScript
+  - Typescript
 
 **Frontend**
-- JavaScript
 - CSS
 - HTML
+- React
+  - useState
+  - Props and State
+  - Next.js
+  - Ant Design UI Framework
   
 **Additional skills:**
 - MS SQL
@@ -41,9 +47,7 @@ Current role level: ***Junior***
 - Github Actions
 ---
 ### Currently learning:
-- React
 - Node.js
-- Gitlab's CI CD
 
 ### Pet projects
 - [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A website with simple tools that use steam web API. Currently may only calculate weight of given mods collection
