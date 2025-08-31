@@ -1,5 +1,5 @@
 # Artyom Re (Arthur Hoffman) 
-### C#/.Net Core developer | Fullstack .Net developer
+### C#/.Net Core developer | Backend developer
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet) 
 ![EF Core](https://img.shields.io/badge/-EF_Core-512BD4?logo=dotnet)
@@ -18,36 +18,52 @@ Current role level: ***Junior***
 
 ---
 ### Tech Stack:
-**Backend**
+**Languages**
 - C#
+- JavaScript (And TypeScript)
+- PHP
+**Backend**
 - ASP.Net Core
   - MVC
   - Web API
   - Minimal APIs
   - Razor Pages
-- EF Core
-- Identity Core
-- WPF
-  - MVVM  
-- JavaScript
-  - Typescript
+  - Identity Core
+- Express
+  - Light knowledge (Simple API level)
+- Laravel
+  - MVC
+  - Blade
 
 **Frontend**
 - CSS
 - HTML
 - React
-  - useState
-  - Props and State
   - Next.js
   - Ant Design UI Framework
-  
+
+**ORMs**
+- EF Core
+- Eloquent
+
+**Database**
+- T-SQL
+  - MS SQL
+- SQL
+  - MySQL
+
 **Additional skills:**
-- MS SQL
+- WPF
+  - MVVM
+  - Data Binding
 - xUnit tests
 - Github Actions
 ---
 ### Currently learning:
 - Node.js
+- React (Improving)
+- Tailwind
+- Eslint
 
 ### Pet projects
 - [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A website with simple tools that use steam web API. Currently may only calculate weight of given mods collection
