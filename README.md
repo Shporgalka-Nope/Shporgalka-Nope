@@ -22,6 +22,7 @@ Current role level: ***Junior***
 - C#
 - JavaScript (And TypeScript)
 - PHP
+
 **Backend**
 - ASP.Net Core
   - MVC
