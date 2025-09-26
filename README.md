@@ -41,7 +41,8 @@ Current role level: ***Junior***
 - HTML
 - React
   - Next.js
-  - Ant Design UI Framework
+  - Ant Design
+  - Bootstrap
 
 **ORMs**
 - EF Core
@@ -61,10 +62,9 @@ Current role level: ***Junior***
 - Github Actions
 ---
 ### Currently learning:
-- Node.js
+- Next.js
 - React (Improving)
 - Tailwind
-- Eslint
 
 ### Pet projects
 - [Art's Steam Web Tools](https://github.com/Shporgalka-Nope/SteamWebTools.git) - A website with simple tools that use steam web API. Currently may only calculate weight of given mods collection
